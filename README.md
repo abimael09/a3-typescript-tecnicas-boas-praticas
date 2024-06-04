@@ -2,4 +2,4 @@
 
 <h2>Sobre</h2>
 
-<p>projeto em Typescript com tecnicas e boas-práticas...</p>
+<p>Projeto em Typescript com técnicas e boas-práticas...</p>
